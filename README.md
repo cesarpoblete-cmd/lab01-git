@@ -2,3 +2,5 @@
 Proyecto del Laboratorio 01 del curso.
 ## Autor 
 Tu Nombre - Laboratorio 01
+### Estado del Proyecto
+Entrega de la tarea completada y lista para revisión.
